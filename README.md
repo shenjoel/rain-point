@@ -1,5 +1,5 @@
 # rain-point
-
+** redpack 红包雨 落体效果 **
 ## Project setup
 ```
 npm install
